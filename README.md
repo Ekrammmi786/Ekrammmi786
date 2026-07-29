@@ -29,7 +29,7 @@
 
 <td width="40%">
 
-<img src="/passsportsize.jpeg.jpeg" width="260" alt="Ekramali Profile"/>
+<img src="/FORMAL_IMAGE.jpeg" width="260" alt="Ekramali Profile"/>
 
 </td>
 
