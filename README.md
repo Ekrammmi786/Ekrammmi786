@@ -155,7 +155,7 @@ Student-friendly statistics tool
 
 * 📧 **Email:** [sulemaniekramali@gmail.com](mailto:sulemaniekramali@gmail.com)
 * 💻 **GitHub:** https://github.com/Ekrammmi786
-* 💻 **linkdin:** https://www.linkedin.com/in/ekramali-sulemani-00691b426?utm_source=share_via&utm_content=profile&utm_medium=member_android
+* 💻 **linkdin:** https://www.linkedin.com/in/ekramali-sulemani-222b01394?utm_source=share_via&utm_content=profile&utm_medium=member_android
 ---
 
 ## 💬 Quote
